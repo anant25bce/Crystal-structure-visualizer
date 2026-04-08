@@ -1,3 +1,9 @@
+# Course Details
+Subject: Introduction to Computational Chemistry
+Professor: Dr. Saurav Prasad
+Institution: Vellore Institute of Technology (VIT Bhopal)
+Semester: Winter Semester 2026
+
 # Crystal-structure-visualizer
 A simple and interactive 3D crystal structure visualizer built using JavaScript and Three.js.
 This project allows users to explore basic crystal lattices like Diamond, Graphite, and NaCl, and also load custom CIF files.
